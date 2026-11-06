@@ -119,13 +119,13 @@ Formula Used:-
 **Key Learnings**
 Through this project, I practiced:
 
-statistical analysis using AVERAGE.
-Mathematical and Aggregate functions.
-Text functions.
-Power Query using Remove duplicates.
-Data imputation using ISBLANK in Numerical and Categorical.
-Date and Time Functions.
-Conditional Formating.
+● statistical analysis using AVERAGE.
+● Mathematical and Aggregate functions.
+● Text functions.
+● Power Query using Remove duplicates.
+● Data imputation using ISBLANK in Numerical and Categorical.
+● Date and Time Functions.
+● Conditional Formating.
 
 
 ## 👤 Author
